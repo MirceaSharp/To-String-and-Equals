@@ -1,0 +1,10 @@
+C:\Users\hans\source\repos\Voorbeeld ToString en Equals\Voorbeeld ToString en Equals\bin\Debug\Voorbeeld ToString en Equals.exe.config
+C:\Users\hans\source\repos\Voorbeeld ToString en Equals\Voorbeeld ToString en Equals\bin\Debug\Voorbeeld ToString en Equals.exe
+C:\Users\hans\source\repos\Voorbeeld ToString en Equals\Voorbeeld ToString en Equals\bin\Debug\Voorbeeld ToString en Equals.pdb
+C:\Users\hans\source\repos\Voorbeeld ToString en Equals\Voorbeeld ToString en Equals\obj\Debug\Voorbeeld ToString en Equals.csprojAssemblyReference.cache
+C:\Users\hans\source\repos\Voorbeeld ToString en Equals\Voorbeeld ToString en Equals\obj\Debug\Voorbeeld_ToString_en_Equals.Form1.resources
+C:\Users\hans\source\repos\Voorbeeld ToString en Equals\Voorbeeld ToString en Equals\obj\Debug\Voorbeeld_ToString_en_Equals.Properties.Resources.resources
+C:\Users\hans\source\repos\Voorbeeld ToString en Equals\Voorbeeld ToString en Equals\obj\Debug\Voorbeeld ToString en Equals.csproj.GenerateResource.cache
+C:\Users\hans\source\repos\Voorbeeld ToString en Equals\Voorbeeld ToString en Equals\obj\Debug\Voorbeeld ToString en Equals.csproj.CoreCompileInputs.cache
+C:\Users\hans\source\repos\Voorbeeld ToString en Equals\Voorbeeld ToString en Equals\obj\Debug\Voorbeeld ToString en Equals.exe
+C:\Users\hans\source\repos\Voorbeeld ToString en Equals\Voorbeeld ToString en Equals\obj\Debug\Voorbeeld ToString en Equals.pdb
